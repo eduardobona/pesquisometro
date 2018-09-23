@@ -1,0 +1,21 @@
+{
+  "nuRegistroTSE": "BR-01037/2014",
+  "uf": "BR",
+  "nuTurno": 1,
+  "dataDivulgacao": "2014-10-04",
+  "dataPesquisaInicio": "2014-10-03",
+  "dataPesquisaTermino": "2014-10-04",
+  "nuEntrevistados": 18116;,
+  "pcMargemErro": 2,
+  "pcNivelConfiaca": "",
+  "resultado": {
+    "DILMA ROUSSEFF": 40,
+    "AECIO NEVES": 24,
+    "MARINA SILVA": 22,
+    "EDUARDO JORGE": 1,
+    "EVERALDO PEREIRA": 1,
+    "LUCIANA GENRO": 1,
+    "BRANCO NULO": 4,
+    "NAO SABE NAO RESPONDEU": 5
+  }
+}
