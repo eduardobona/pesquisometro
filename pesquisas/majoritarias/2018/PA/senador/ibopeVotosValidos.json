@@ -1,0 +1,20 @@
+{
+    "nuRegistroTSE": "BR-00256/2018",
+    "nuRegistroTRE": "PA-06819/2018",
+    "dataDivulgacao": "2018-10-06",
+    "dataPesquisaInicio": "2018-10-05",
+    "dataPesquisaTermino": "2018-10-06",
+    "uf": "PA",
+    "nuTurno": 1,
+    "nuEntrevistados": 812,
+    "pcMargemErro": 3,
+    "pcNivelConfiaca": 95,
+    "resultado": [
+      {
+        "JADER BARBALHO": 23,
+        "ZEQUINHA MARINHO": 17,
+        "FLEXA RIBEIRO": 16
+      }
+    ]
+  }
+  

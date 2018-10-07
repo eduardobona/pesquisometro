@@ -1,0 +1,28 @@
+{
+  "nuRegistroTSE": "BR-05835/2018",
+  "nuRegistroTRE": "PR-07265/2018",
+  "uf": "PR",
+  "nuTurno": 1,
+  "dataDivulgacao": "2018-10-06",
+  "dataPesquisaInicio": "2018-10-04",
+  "dataPesquisaTermino": "2018-10-06",
+  "nuEntrevistados": 1512,
+  "pcMargemErro": 3,
+  "pcNivelConfiaca": 95,
+  "resultado": [
+    {      
+      "RATINHO JUNIOR": 50,
+      "CIDA BORGHETTI": 16,
+      "JOAO ARRUDA": 12,
+      "DOUTOR ROSINHA": 5,
+      "OGIER BUCHI": 2,
+      "PROFESSOR PIVA": 1,      
+      "PRISCILA EBARA": 1,
+      "PROFESSOR IVAN BERNARDO": 0,
+      "PROFESSOR JORGE BERNARDI": 0,
+      "GEONISIO MARINHO": 0,
+      "BRANCO NULO": 6,
+      "NAO SABE NAO RESPONDEU": 6
+    }
+  ]
+}

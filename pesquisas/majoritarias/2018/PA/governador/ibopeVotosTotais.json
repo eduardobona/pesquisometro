@@ -1,0 +1,24 @@
+{
+    "nuRegistroTSE": "BR-00256/2018",
+    "nuRegistroTRE": "PA-06819/2018",
+    "dataDivulgacao": "2018-10-06",
+    "dataPesquisaInicio": "2018-10-05",
+    "dataPesquisaTermino": "2018-10-06",
+    "uf": "PA",
+    "nuTurno": 1,
+    "nuEntrevistados": 812,
+    "pcMargemErro": 3,
+    "pcNivelConfiaca": 95,
+    "resultado": [
+      {
+        "HELDER BARBALHO": 48,
+        "MARCIO MIRANDA": 22,
+        "PAULO ROCHA": 13,
+        "FERNANDO CARNEIRO": 4,
+        "CLEBER RABELO": 2,
+        "BRANCO NULO NENHUM": 8,
+        "NAO SABE NAO RESPONDEU": 4
+      }
+    ]
+  }
+  
