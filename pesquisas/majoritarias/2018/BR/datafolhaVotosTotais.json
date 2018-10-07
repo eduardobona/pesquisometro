@@ -1,0 +1,30 @@
+{
+  "nuRegistroTSE": "BR-01584/2018",
+  "dataDivulgacao": "2018-10-06",
+  "dataPesquisaInicio": "2018-10-05",
+  "dataPesquisaTermino": "2018-10-06",
+  "uf": "BR",
+  "nuTurno": 1,
+  "nuEntrevistados": 19552,
+  "pcMargemErro": 2,
+  "pcNivelConfiaca": 95,
+  "resultado": [
+    {
+      "JAIR BOLSONARO": 36,
+      "FERNANDO HADDAD": 22,
+      "CIRO GOMES": 13,
+      "GERALDO ALCKMIN": 7,
+      "MARINA SILVA": 3,
+      "JOAO AMOEDO": 3,
+      "ALVARO DIAS": 2,
+      "HENRIQUE MEIRELLES": 2,
+      "VERA LUCIA": 0,
+      "GUILHERME BOULOS": 1,
+      "CABO DACIOLO": 1,
+      "JOAO GOULART FILHO": 0,
+      "EYMAEL": 0,
+      "BRANCO NULO NENHUM": 6,
+      "NAO SABE NAO RESPONDEU": 4
+    }
+  ]
+}
