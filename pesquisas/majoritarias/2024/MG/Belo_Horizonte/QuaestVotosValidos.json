@@ -1,0 +1,27 @@
+{
+  "nuRegistroTSE": "MG-02172/2024",
+  "dataDivulgacao": "2024-10-05",
+  "dataPesquisaInicio": "2024-10-04",
+  "dataPesquisaTermino": "2024-10-05",
+  "uf": "MG",
+  "cidade": "Belo Horizonte",
+  "nuTurno": 1,
+  "nuEntrevistados": 2004,
+  "pcMargemErro": 2,
+  "pcNivelConfiaca": 95,
+  "linkReference": "https://g1.globo.com/mg/minas-gerais/eleicoes/2024/noticia/2024/10/05/quaest-em-bh-engler-tem-30percent-fuad-25percent-e-tramonte-20percent.ghtml",
+  "resultado": [
+    {
+      "Bruno Engler": 30,
+      "Fuad Noman": 25,
+      "Mauro Tramonte": 20,
+      "Gabriel": 8,
+      "Duda Salabert": 8,
+      "Rogério Correia": 7,
+      "Carlos Viana": 2,
+      "Indira Xavier": 0,
+      "Wanderson Rocha": 0,
+      "Lourdes Francisco": 0
+    }
+  ]
+}
