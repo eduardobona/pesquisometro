@@ -1,0 +1,25 @@
+{
+  "nuRegistroTSE": "RS-01213/2024",
+  "dataDivulgacao": "2024-10-05",
+  "dataPesquisaInicio": "2024-10-04",
+  "dataPesquisaTermino": "2024-10-05",
+  "uf": "RS",
+  "cidade": "Porto Alegre",
+  "nuTurno": 1,
+  "nuEntrevistados": 1002,
+  "pcMargemErro": 3,
+  "pcNivelConfiaca": 95,
+  "linkReference": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2024/noticia/2024/10/05/quaest-em-porto-alegre-sebastiao-melo-tem-50percent-maria-do-rosario-26percent-e-juliana-brizola-23percent.ghtml",
+  "resultado": [
+    {
+      "Sebastião Melo": 50,
+      "Maria do Rosário": 26,
+      "Juliana Brizola": 23,
+      "Felipe Camozzato": 1,
+      "Fabiana Sanguiné": 0,
+      "Cesar Pontes": 0,
+      "Luciano do MLB": 0,
+      "Carlos Alan": 0
+    }
+  ]
+}
