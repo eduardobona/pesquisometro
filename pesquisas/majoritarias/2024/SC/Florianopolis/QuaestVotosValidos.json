@@ -1,0 +1,26 @@
+{
+  "nuRegistroTSE": "SC-4255/2024",
+  "dataDivulgacao": "2024-10-05",
+  "dataPesquisaInicio": "2024-10-03",
+  "dataPesquisaTermino": "2024-10-04",
+  "uf": "SC",
+  "cidade": "Florianópolis",
+  "nuTurno": 1,
+  "nuEntrevistados": 1000,
+  "pcMargemErro": 3,
+  "pcNivelConfiaca": 95,
+  "linkReference": "https://g1.globo.com/sc/santa-catarina/eleicoes/2024/noticia/2024/10/05/quaest-em-florianopolis-topazio-tem-53percent-marquito-21percent-e-dario-14percent.ghtml",
+  "resultado": [
+    {
+      "Topázio Neto": 53,
+      "Marquito": 21,
+      "Dário Berger": 14,
+      "Lela": 7,
+      "Pedrão": 5,
+      "Brunno Dias": 0,
+      "Mateus Souza": 0,
+      "Rogério Portanova": 0,
+      "Carlos Muller": 0
+    }
+  ]
+}
