@@ -1,0 +1,26 @@
+{
+  "nuRegistroTSE": "SP-01150/2024",
+  "dataDivulgacao": "2024-10-05",
+  "dataPesquisaInicio": "2024-10-04",
+  "dataPesquisaTermino": "2024-10-05",
+  "uf": "SP",
+  "cidade": "São Paulo",
+  "nuTurno": 1,
+  "nuEntrevistados": 2400,
+  "pcMargemErro": 2,
+  "pcNivelConfiaca": 95,
+  "linkReference": "https://g1.globo.com/sp/sao-paulo/eleicoes/2024/noticia/2024/10/05/quaest-em-sao-paulo-votos-validos-boulos-tem-29percent-nunes-28percent-e-marcal-27percent.ghtml",
+  "resultado": [
+    {
+      "Guilherme Boulos": 29,
+      "Ricardo Nunes": 28,
+      "Pablo Marçal": 27,
+      "Tabata Amaral": 10,
+      "Datena": 4,
+      "Marina Helena": 2,
+      "Bebeto Haddad": 0,
+      "João Pimenta": 0
+      "Altino Prazeres": 0
+    }
+  ]
+}
