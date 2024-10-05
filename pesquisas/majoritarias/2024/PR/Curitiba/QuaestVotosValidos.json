@@ -1,0 +1,27 @@
+{
+  "nuRegistroTSE": "PR-04399/2024",
+  "dataDivulgacao": "2024-10-05",
+  "dataPesquisaInicio": "2024-10-04",
+  "dataPesquisaTermino": "2024-10-05",
+  "uf": "PR",
+  "cidade": "Curitiba",
+  "nuTurno": 1,
+  "nuEntrevistados": 1002,
+  "pcMargemErro": 3,
+  "pcNivelConfiaca": 95,
+  "linkReference": "https://g1.globo.com/pr/parana/eleicoes/2024/noticia/2024/10/05/quaest-em-curitiba-pimentel-tem-30percent-graeml-26percent-e-ducci-23percent.ghtml",
+  "resultado": [
+    {
+      "Eduardo Pimentel": 30,
+      "Cristina Graeml": 26,
+      "Luciano Ducci": 23,
+      "Ney Leprevost": 12,
+      "Roberto Requião": 4,
+      "Luizão Goulart": 3,
+      "Maria Victoria": 2,
+      "Professora Andrea Caldas": 0,
+      "Samuel de Mattos": 0,
+      "Felipe Bombardelli": 0
+    }
+  ]
+}
