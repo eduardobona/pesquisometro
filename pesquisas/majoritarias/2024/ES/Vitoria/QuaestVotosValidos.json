@@ -1,0 +1,23 @@
+{
+  "nuRegistroTSE": "ES-00977/2024",
+  "dataDivulgacao": "2024-10-05",
+  "dataPesquisaInicio": "2024-10-04",
+  "dataPesquisaTermino": "2024-10-05",
+  "uf": "ES",
+  "cidade": "Vitória",
+  "nuTurno": 1,
+  "nuEntrevistados": 1000,
+  "pcMargemErro": 3,
+  "pcNivelConfiaca": 95,
+  "linkReference": "https://g1.globo.com/es/espirito-santo/eleicoes/2024/noticia/2024/10/05/quaest-em-vitoria-pazolini-tem-50percent-luiz-paulo-23percent-coser-22percent.ghtml",
+  "resultado": [
+    {
+      "Lorenzo Pazolini": 50,
+      "Luiz Paulo Vellozo Lucas": 23,
+      "João Coser": 22,
+      "Camila Valadão": 3,
+      "Assumção": 2,
+      "Du": 0
+    }
+  ]
+}
