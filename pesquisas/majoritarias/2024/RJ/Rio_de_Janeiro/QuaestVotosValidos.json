@@ -1,0 +1,26 @@
+{
+  "nuRegistroTSE": "RJ-02193/2024",
+  "dataDivulgacao": "2024-10-05",
+  "dataPesquisaInicio": "2024-10-04",
+  "dataPesquisaTermino": "2024-10-05",
+  "uf": "RJ",
+  "cidade": "Rio de Janeiro",
+  "nuTurno": 1,
+  "nuEntrevistados": 2004,
+  "pcMargemErro": 2,
+  "pcNivelConfiaca": 95,
+  "linkReference": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2024/noticia/2024/10/05/quaest-no-rio-paes-tem-61percent-e-ramagem-29percent.ghtml",
+  "resultado": [
+    {
+      "Eduardo Paes": 61,
+      "Alexandre Ramagem": 29,
+      "Tarcísio Motta": 6,
+      "Marcelo Queiroz": 2,
+      "Carol Sponza": 0,
+      "Cyro Garcia": 0,
+      "Rodrigo Amorim": 2,
+      "Juliete Pantoja": 0,
+      "Henrique Simonard": 0
+    }
+  ]
+}
