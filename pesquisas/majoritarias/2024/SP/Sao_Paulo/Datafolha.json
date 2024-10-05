@@ -1,0 +1,26 @@
+{
+  "nuRegistroTSE": "SP-09329/2024",
+  "dataDivulgacao": "2024-10-03",
+  "dataPesquisaInicio": "2024-01",
+  "dataPesquisaTermino": "2024-03",
+  "uf": "SP",
+  "cidade": "São Paulo",
+  "nuTurno": 1,
+  "nuEntrevistados": 1806,
+  "pcMargemErro": 2,
+  "pcNivelConfiaca": 95,
+  "linkReference": "https://g1.globo.com/sp/sao-paulo/eleicoes/2024/noticia/2024/10/03/datafolha-em-sp-boulos-tem-26percent-nunes-24percent-e-marcal-24percent-em-empate-tecnico-triplo.ghtml",
+  "resultado": [
+    {
+      "Guilherme Boulos": 29,
+      "Ricardo Nunes": 26,
+      "Pablo Marçal": 26,
+      "Tabata Amaral": 12,
+      "Datena": 4,
+      "Marina Helena": 3,
+      "Bebeto Haddad": 0,
+      "João Pimenta": 0
+      "Altino Prazeres": 0
+    }
+  ]
+}
